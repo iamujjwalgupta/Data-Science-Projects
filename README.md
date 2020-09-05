@@ -1,5 +1,5 @@
 # Data-Science-Projects
-These are beginner projects for my data science learning path.
+These are beginner projects for my data science learning path
 
 Below are the datasets used for different projects
 
