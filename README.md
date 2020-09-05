@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Machine-Learning-Projects
 These are beginner projects for my data science learning path
 
 Below are the datasets used for different projects
