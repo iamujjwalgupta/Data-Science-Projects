@@ -18,4 +18,5 @@ http://www.iamujjwalgupta.com/wp-content/uploads/2020/09/train.txt
 
 
 Race_Chart_City_Population: http://www.iamujjwalgupta.com/wp-content/uploads/2020/09/CityPopulation.txt
+CardiGoodFitness_Descriptive_Statistics: http://www.iamujjwalgupta.com/wp-content/uploads/2020/09/CardioGoodFitness-1.csv
 
