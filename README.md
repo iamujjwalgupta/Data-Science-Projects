@@ -12,4 +12,8 @@ Logistic_regression: http://www.iamujjwalgupta.com/wp-content/uploads/2020/09/Ca
 Conversion to .data is required for below text files
 Stock_price_prediction_model: http://www.iamujjwalgupta.com/wp-content/uploads/2020/09/AltabaIncStockData.txt
 Iris_Flower_Data: http://www.iamujjwalgupta.com/wp-content/uploads/2020/09/iris.txt
-Loan_Data_Predict_Approval_of_Loan: ahttp://www.iamujjwalgupta.com/wp-content/uploads/2020/09/LoanData.txt
+Loan_Data_Predict_Approval_of_Loan: http://www.iamujjwalgupta.com/wp-content/uploads/2020/09/LoanData.txt
+Big Mart: http://www.iamujjwalgupta.com/wp-content/uploads/2020/09/test.txt
+http://www.iamujjwalgupta.com/wp-content/uploads/2020/09/train.txt
+
+
